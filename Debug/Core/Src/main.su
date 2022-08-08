@@ -1,0 +1,14 @@
+main.c:198:6:all_on_SEG	8	static
+main.c:219:6:initSEG	16	static
+main.c:237:6:uprintchar	32	static
+main.c:251:6:printchar	48	static
+main.c:274:6:printFigures	24	static
+main.c:287:6:affichageDig	48	static
+main.c:385:6:affichageChar	32	static
+main.c:432:5:main	128	static
+main.c:1326:6:SystemClock_Config	88	static
+main.c:1371:13:MX_ADC1_Init	24	static
+main.c:1416:13:MX_TIM2_Init	64	static
+main.c:1483:13:MX_TIM3_Init	64	static
+main.c:1550:13:MX_GPIO_Init	40	static
+main.c:1636:6:Error_Handler	4	static,ignoring_inline_asm
